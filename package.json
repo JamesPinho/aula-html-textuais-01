@@ -1,0 +1,11 @@
+{
+  "name": "vscodenpm",
+  "version": "1.0.0",
+  "description": "meuprojeto",
+  "main": "index.html",
+  "scripts": {
+  
+  },
+  "author": "jammyson pinho",
+  "license": "ISC"
+}
